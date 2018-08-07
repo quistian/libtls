@@ -18,7 +18,7 @@ What is libtls not good for?
 - Replacing malloc and free with wrappers that do not quite the same thing.
 - Providing slightly different versions of Posix string handling routines.
 - Providing routines to parse http requests.
-- A lovingly hand crafted implementaiton of Julien dates.
+- A lovingly hand crafted implementaiton of Julian dates.
 - Big Endian AMD64 support.
 - Handling runtime changes to the size of socklen_t.
 - etc etc.
